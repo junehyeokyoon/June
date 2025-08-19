@@ -25,6 +25,9 @@ University of Georgia
 - Nutrient digestibility, availability, and requirement modeling  
 - Nutritional interventions and microbiome analysis for intestinal health  
 
+---
+## 🏆 Award
+- **Poultry Science Association] Certificate of Excellence**
 
 ---
 ## 📚 Publications
