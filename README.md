@@ -1,23 +1,23 @@
-##  June Hyeok Yoon
+## 🐔 June Hyeok Yoon
 **Ph.D. Student in Poultry Science (Broiler Nutrition)**  
 
 University of Georgia  
 
-📧 Email: [junehyeokyoon@ncsu.edu](mailto:junehyeokyoon@uga.edu)  
-🔗 [Google Scholar](https://scholar.google.com/citations?user=FwQUdD4AAAAJ&hl=en&authuser=1) · 
-[LinkedIn](https://www.linkedin.com/in/jeonghyeon-son-107a10246/)
+📧 Email: [junehyeokyoon@uga.edu](mailto:junehyeokyoon@uga.edu)  
+🔗 [Google Scholar](https://scholar.google.com/citations?user=1JO24ZIAAAAJ&hl=ko&oi=ao) · 
+[LinkedIn](https://www.linkedin.com/in/june-hyeok-yoon-305573238/)
 
 ---
 
 ## 🎓 Education
-- **Ph.D. in Animal Science**  
-  North Carolina State University, Raleigh, NC, Jan 2025–Present  
+- **Ph.D. in Poultry Science**  
+  University of Georgia, Athens, GA, Aug 2024–Present  
 
 - **M.Sc. in Animal Science**  
-  Konkuk University, Seoul, South Korea, Aug 2023  
+  Kyungpook National University, Sangju, South Korea, Feb 2024  
 
-- **B.Sc. in Animal Science and Technology**  
-  Konkuk University, Seoul, South Korea, Aug 2021  
+- **B.Sc. in Animal Science and Technology (Minor in Chemistry)**  
+  Konkuk University, Seoul, South Korea, Feb 2022  
 
 ---
 ## 🔬 Research Interests
