@@ -21,9 +21,9 @@ Department of Poultry Science, University of Georgia
 
 ---
 ## 🔬 Research Interests
-- Feed ingredient evaluation in broilers  
-- Dietary interventions for improved nutrient digestibility, intestinal health, and microbiota   
-- Application of reduced-crude protein diets in broilers
+- Evaluation of Feed Ingredients in Broilers  
+- Dietary Interventions for Enhanced Nutrient Digestibility, Intestinal Health, and Microbiota Modulation 
+- Application of Reduced-Crude Protein Diets in Broiler Nutrition
 
 ---
 ## 🏆 Award
