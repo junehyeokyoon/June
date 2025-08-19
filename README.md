@@ -31,7 +31,7 @@ Department of Poultry Science, University of Georgia
 
 ---
 ## 📚 Publications
- 10. **Yoon, J. H.**, S. H. An, Y. Kim, H-J. Kim, and C. Kong. 2024. Growth performance of broiler chickens fed diets containing granulated L-methionine compared with DL-methionine. Journal of Animal Science and Technology. (Accepted).
+ 10. **Yoon, J. H.**, S. H. An, Y. Kim, H-J. Kim, and C. Kong. 2025. Growth performance of broiler chickens fed diets containing granulated L-methionine compared with DL-methionine. Journal of Animal Science and Technology. 67:817-825.
  9. **Yoon, J. H.**, and C. Kong. 2025. Apparent metabolizable energy concentration and ileal amino acids digestibility in cereal grains fed to broiler chickens. Animal Bioscience. 38:511-521.
  8. **Yoon, J. H.**, S. S. Joo, S. H. An, B. C. Ban, M. Jung, W. Ji, J. Y. Jung, M. Kim, and C. Kong. 2024. Inclusion of Lacticaseibacillus paracasei NSMJ15 in broiler diets induces changes in jejunal immune cell population and cecal microbiota. Animal Bioscience. 12:2155-2166.
  7. Cho, I. H., S. H. An, **J. H. Yoon**, N. Namgung, and C. Kong. 2024. Growth performance and nitrogen excretion of broiler chickens fed low protein diets supplemented with crystalline amino acids. Journal of Animal Science and Technology. 66:145-155.
