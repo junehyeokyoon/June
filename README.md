@@ -1,7 +1,7 @@
 ## 🐔 June Hyeok Yoon
-**Ph.D. Student in Poultry Science (Broiler Nutrition)**  
+**Ph.D. Student in Broiler Nutrition**  
 
-University of Georgia  
+Department of Poultry Science, University of Georgia  
 
 📧 Email: [junehyeokyoon@uga.edu](mailto:junehyeokyoon@uga.edu)  
 🔗 [Google Scholar](https://scholar.google.com/citations?user=1JO24ZIAAAAJ&hl=ko&oi=ao) · 
@@ -27,7 +27,7 @@ University of Georgia
 
 ---
 ## 🏆 Award
-- **Poultry Science Association] Certificate of Excellence**
+- **Poultry Science Association] Certificate of Excellence for oral presentation**
 
 ---
 ## 📚 Publications
